@@ -10,12 +10,12 @@ opts = Trollop::options do
 Expiryion Certificate Check will tell you if an X509 Certificate is about to expire.
 
 Usage:
-       expiryion [options] <filename_or_url>
+       expiryian [options] <filename_or_url>
 
 Example(s):
 
-      expiryion --days 3 http://www.example.com/mycert.pem
-      expiryion mycert.pem
+      expiryian --days 3 http://www.example.com/mycert.pem
+      expiryian mycert.pem
 
 where [options] are:
 EOS
