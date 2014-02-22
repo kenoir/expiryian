@@ -1,6 +1,6 @@
 # Expiryian Certificate Check
 
-Simple script whose exist status tells you if an X509 Certificate is about to expire.
+Simple script whose exit status tells you if an X509 Certificate is about to expire.
 
     Usage:
            expiryian [options] <filename_or_url>
